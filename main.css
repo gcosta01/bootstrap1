@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding: 40px;
+    background-color: #54bef0;
+}
+
+form {
+    margin-top: 32px;
+}
+
+label {
+    margin-top: 16px;
+}
+
+button {
+    margin-top: 16px;
+}
